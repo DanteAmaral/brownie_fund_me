@@ -22,4 +22,4 @@ networks:
   
 
 wallets:
-  from_key: ${PRIVATE_KEY}S
+  from_key: ${PRIVATE_KEY}
